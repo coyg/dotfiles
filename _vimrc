@@ -232,7 +232,7 @@ set incsearch               " Incrementally search while typing a /regex
 
 """" Display
 if has("gui_running")
-    colorscheme desert
+    colorscheme solarized
     " Remove menu bar
     set guioptions-=m
 
